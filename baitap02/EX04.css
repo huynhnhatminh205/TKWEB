@@ -1,53 +1,54 @@
 <style>
         
-    body{
-font: 15px/1.5 Arial, Helvetica,sans-serif;
-padding:0;
-margin:0;
-
-}
-/* Header **/
-header{
-background-color: rgb(25, 163, 34);
-border-bottom: 8px inset rgb(234, 75, 75);
-}
-header a{
-text-decoration: none;
-color:rgb(2, 12, 12);
-text-transform: uppercase;
-}
-header li{
-display: inline;
-padding-right: 10px;
-}
-header #branding{
-background-color: rgb(41, 35, 35);
-height: 10px;
-}
-header #branding h1{
-background-color: rgb(202, 98, 98);
-color:azure;
-padding-top: 200px;
-}
-header nav{
-position: inherit;
-transform: translate(0);
-opacity: 1;
-justify-content: flex-end;
-align-items: center;
-display: flex;
-font-size: 25px;
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-header .highlight, header .current a{
-color:orangered;
-}
-header a:hover{
-color:orangered;
-}
-footer{
-color: azure;
-background-color: rgb(234, 75, 75);
-text-align: center;
-
-}
+        body{
+    font: 15px/1.5 Arial, Helvetica,sans-serif;
+    padding:0;
+    margin:0;
+    
+    }
+    /* Header **/
+    header{
+    background-color: rgb(25, 163, 34);
+    border-bottom: 8px inset rgb(234, 75, 75);
+    }
+    header a{
+    text-decoration: none;
+    color:rgb(2, 12, 12);
+    text-transform: uppercase;
+    }
+    header li{
+    display: inline;
+    padding-right: 10px;
+    }
+    header #branding{
+    background-color: rgb(41, 35, 35);
+    height: 10px;
+    }
+    header #branding h1{
+    background-color: rgb(202, 98, 98);
+    color:azure;
+    padding-top: 200px;
+    }
+    header nav{
+    position: inherit;
+    transform: translate(0);
+    opacity: 1;
+    justify-content: flex-end;
+    align-items: center;
+    display: flex;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    header .highlight, header .current a{
+    color:orangered;
+    }
+    header a:hover{
+    color:orangered;
+    }
+    footer{
+    color: azure;
+    background-color: rgb(234, 75, 75);
+    text-align: center;
+    
+    }
+    </style>
