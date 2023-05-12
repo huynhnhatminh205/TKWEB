@@ -8,7 +8,7 @@
   }
   
   
-  /* Header **/
+  
   header{
     background-color: rgb(22, 188, 28);
     border-bottom: 8px inset rgb(173, 24, 24);
