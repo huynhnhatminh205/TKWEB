@@ -54,7 +54,7 @@
             text-align: center;
         }
         .span{
-            color:blu;
+            color:blue;
         }   
 
         
