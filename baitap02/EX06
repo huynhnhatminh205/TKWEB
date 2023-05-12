@@ -57,6 +57,17 @@
         span{
             color: blue;
         }
+        .text{
+            width: 1600px;
+            height: 500px; 
+            
+        }
+        .tixt{
+            text-align: center;
+            color: #0a0909;
+            position: absolute ;
+            font-size: 40px;
+        }
 
         
     </style>
@@ -69,14 +80,19 @@
                 <li><a href="#"></a><a id="highlight">dich vu</a></li>
             </ul>
         </header>
-        <h2>Thiet ke wedsite chuyen nghiep</h2>
+        <div class="tixt">
+            <h2>Thiet ke wedsite chuyen nghiep</h2>
         <p>chung toi cung cap cac dich vu thiet ke chuyen nghiep, gia ca hop ly theo yeu cau cua khach hang </p>
+        </div>
+        <img class="text" src="http://thuthuatphanmem.vn/uploads/2018/04/10/hinh-nen-bong-hoa-dep-day-suc-song_052333603.jpg" >
+        
+        
         <h2>Dang ky de nhan thong bao tu chung toi</h2>
         <input type="Nhap email">
         <button>dang ky</button>
-        <div >
+        
             <img src="https://th.bing.com/th/id/OIP.sxgAuWLSIvPXh0cZ2bmQvgHaIj?pid=ImgDet&rs=1" width="200",height="200">
-        </div>
+        
         <h2>Ngon ngu HTML5</h2>
         <div>
             <img src="https://th.bing.com/th/id/R.a57aeaeb1cbf1b1b9adea4df1992d7ab?rik=GLd8n3txdXGdjA&pid=ImgRaw&r=0" width="200",height="200">
