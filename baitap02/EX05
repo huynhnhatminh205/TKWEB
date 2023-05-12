@@ -53,12 +53,15 @@
             background-color:#e8491d;
             text-align: center;
         }
+        .span{
+            color:blu;
+        }   
 
         
     </style>
     <body>
         <header>
-            <h1>Nhat minh wedsite</h1>
+            <h1><span>Nhat minh</span> wedsite</h1>
             <ul>
                 <li><a href="#"></a><a id="highlight">trang chu</a></li>
                 <li><a href="#"></a><a id="highlight">thong tin</a></li>
