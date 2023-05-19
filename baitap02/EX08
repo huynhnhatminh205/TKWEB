@@ -64,7 +64,7 @@
         }
         .tuxt{
             background-color: darkgray;
-            width: 1500px;
+            width: 1600px;
             height: 40px;
             padding-bottom: 40px;
             display: block;
@@ -179,3 +179,4 @@
    
     
 </html>
+    
